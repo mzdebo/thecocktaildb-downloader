@@ -1,4 +1,4 @@
-let drinks = [{
+{
 		"idDrink": "11000",
 		"strDrink": "Mojito",
 		"strDrinkAlternate": null,
@@ -31049,5 +31049,3 @@ let drinks = [{
 		"strCreativeCommonsConfirmed": "No",
 		"dateModified": "2017-09-07 21:44:05"
 	}
-];
-export default drinks;
